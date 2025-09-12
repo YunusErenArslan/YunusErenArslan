@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif)  
+![MasterHead](https://i.pinimg.com/originals/f9/3e/17/f93e17a3c19635c5abfdc58b57eacde5.gif)  
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate AI developer from Turkey</h3>    
 
