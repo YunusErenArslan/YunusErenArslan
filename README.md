@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="AI Banner"/>
+
+<br/>
+
 # 👋 Hi, I'm Eren
 
 ### 🤖 Artificial Intelligence Developer & Architect
@@ -68,4 +72,5 @@ Interested in **AI Architecture, Multi-Agent Systems, Anomaly Detection and Time
 **AI • Machine Learning • LLM • RAG • Agentic AI**
 
 </div>
+
 
