@@ -43,23 +43,14 @@ Interested in **AI Architecture, Multi-Agent Systems, Anomaly Detection and Time
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=YunusErenArslan&show_icons=true&theme=tokyonight&hide_border=true"
-alt="Eren's GitHub Stats" />
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunusErenArslan&layout=compact&theme=tokyonight&hide_border=true"
-alt="Eren's Top Languages" />
-
-<br/><br/>
-
 <img
 src="https://streak-stats.demolab.com?user=YunusErenArslan&theme=tokyonight&hide_border=true"
-alt="Eren's GitHub Streak" />
+alt="Eren's GitHub Streak"
+/>
 
 </div>
 
@@ -72,5 +63,4 @@ alt="Eren's GitHub Streak" />
 **AI • Machine Learning • LLM • RAG • Agentic AI**
 
 </div>
-
 
