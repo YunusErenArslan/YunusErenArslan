@@ -48,17 +48,17 @@ Interested in **AI Architecture, Multi-Agent Systems, Anomaly Detection and Time
 <div align="center">
 
 <img height="165"
-src="https://github-readme-stats.vercel.app/api?username=erenn560&show_icons=true&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats.vercel.app/api?username=YunusErenArslan&show_icons=true&theme=tokyonight&hide_border=true"
 alt="Eren's GitHub Stats" />
 
 <img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenn560&layout=compact&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunusErenArslan&layout=compact&theme=tokyonight&hide_border=true"
 alt="Eren's Top Languages" />
 
 <br/><br/>
 
 <img
-src="https://streak-stats.demolab.com?user=erenn560&theme=tokyonight&hide_border=true"
+src="https://streak-stats.demolab.com?user=YunusErenArslan&theme=tokyonight&hide_border=true"
 alt="Eren's GitHub Streak" />
 
 </div>
