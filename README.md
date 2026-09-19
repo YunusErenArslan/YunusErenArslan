@@ -10,10 +10,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Developer+%26+Architect;Machine+Learning+%26+Deep+Learning;LLM+%7C+RAG+%7C+Agentic+AI;Building+Intelligent+AI+Systems+🚀" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=erenn560&label=Profile+Views&color=00b4d8&style=flat-square" />
-
 </div>
 
 ---
@@ -49,19 +45,23 @@ Interested in **AI Architecture, Multi-Agent Systems, Anomaly Detection and Time
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=erenn560&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=erenn560&show_icons=true&theme=tokyonight&hide_border=true"
+alt="Eren's GitHub Stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenn560&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenn560&layout=compact&theme=tokyonight&hide_border=true"
+alt="Eren's Top Languages" />
 
-</p>
+<br/><br/>
 
-<p align="center">
+<img
+src="https://streak-stats.demolab.com?user=erenn560&theme=tokyonight&hide_border=true"
+alt="Eren's GitHub Streak" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=erenn560&theme=tokyonight&hide_border=true" />
-
-</p>
+</div>
 
 ---
 
