@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="AI Banner"/>
+<img src="https://velmorteknoloji.com/images/UploadImage/the-transformation-of-software-technologies-intelligent-integrated-and-future-ready-systems.jpg" width="100%" alt="AI Banner"/>
 
 <br/>
 
